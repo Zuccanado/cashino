@@ -1,0 +1,23 @@
+Text that appears outside of the block tags
+will not display in the credits scene
+
+<block:-1,-1,10,10,offbot,center,>
+CREDITS
+
+\c[2]Person Who helped me the most
+Mako
+
+\c[2]Person Who helped me the second-most
+Principal
+
+\c[2]Weird People
+Maiya
+Shibuya Jin
+
+\c[2]Person I still want to meet
+Yako
+</block>
+
+<block:999,0,10,10,300,center,bg_finalshot>
+Bad End(r), River Mask
+</block>

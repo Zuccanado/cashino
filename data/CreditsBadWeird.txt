@@ -1,0 +1,29 @@
+Text that appears outside of the block tags
+will not display in the credits scene
+
+<block:-1,-1,10,10,offbot,center,>
+CREDITS
+
+\c[2]Person Who saved me
+The Needles
+
+\c[2]Person who helped guide me
+Shibuya Jin
+
+\c[2]False Prophet
+Maiya
+
+\c[2]People who I don't know longer
+Yako
+Mako
+Principal
+School
+My Life
+
+\c[2]My Poison
+Photography
+</block>
+
+<block:999,0,10,10,300,center>
+Bad End2, Slumlord King
+</block>
